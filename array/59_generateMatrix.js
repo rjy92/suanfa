@@ -21,13 +21,11 @@ var generateMatrix = function(n){
                 num++
             }
         }
-        // [left,top,right,bottom] = [left+1,top+1,right-1,bottom-1]
         left++;
         right--;
         top++;
         bottom--;
     }
-    // console.log(matrix)
     return matrix
 }
 
