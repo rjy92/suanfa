@@ -1,0 +1,3 @@
+var isStraight = function(nums) {
+
+};
