@@ -1,4 +1,5 @@
 主要介绍树的实现
 js_origin文件，自己编写二叉搜索树的结构，包含定义和一些简单的方法
 Offer为leetcode上剑指 Offer的题目类型
-其余文件为leetCode上相关算法题，欢迎借鉴
+
+leetcode:为查看的所有关于树的题目
