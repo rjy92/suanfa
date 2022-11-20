@@ -104,11 +104,15 @@ export default class LinkedList {
     getHead() {
         return this.head
     }
+    clear() {
+        this.head = undefined;
+        this.count = 0;
+    }
     toString() {
         if (this.head == null) {
             return '';
         }
-        
+
         let objString = `${this.head.element}`;
         let current = this.head.next;
 
