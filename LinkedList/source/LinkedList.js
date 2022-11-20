@@ -61,7 +61,7 @@ export default class LinkedList {
     }
     insert(element, index) {
         // 判断index的合法性
-        if (index >= 0 && index < this.count) {
+        if (index >= 0 && index <=this.count) {
             const node = new Node(element);
             if (index == 0) { // 起点位置插入第一个元素
                 let current = this.head;
