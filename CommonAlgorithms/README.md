@@ -17,4 +17,6 @@
 - greedy----[贪心算法](https://leetcode.cn/tag/greedy/problemset/) 
     - canJump：[跳跃游戏](https://leetcode.cn/problems/jump-game/)
     - maxArea：[盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/)
-
+- backtracking----[回溯算法](https://leetcode.cn/tag/backtracking/problemset/)
+    - pathWithObstacles :[迷路的机器人](https://leetcode.cn/problems/robot-in-a-grid-lcci/)
+    - combine:[组合](https://leetcode.cn/problems/combinations/)
